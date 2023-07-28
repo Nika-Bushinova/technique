@@ -4,7 +4,7 @@
    padding-bottom:15px
 }
 .preview__container {
-   background: url(../../img/pixel2.jpg)0px 0px;
+   background: url(../img/pixel2.jpg)0px 0px;
 
    background-size:cover;
 }
