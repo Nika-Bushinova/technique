@@ -1,0 +1,9 @@
+.preview__container { 
+   background: url('../../img/IMG_8729.jpg');
+   background-size:cover;  
+}
+.vision{
+   width: 100%;
+   height: auto;
+   padding-bottom:15px
+}

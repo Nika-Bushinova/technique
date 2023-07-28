@@ -1,0 +1,10 @@
+.vision{
+   width: 100%;
+   height: auto;
+   padding-bottom:15px
+}
+.preview__container {
+   background: url(../../img/vision.jpg)0px 100px;
+
+   background-size:cover;
+}
